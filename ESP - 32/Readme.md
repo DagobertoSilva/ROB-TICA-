@@ -1,2 +1,2 @@
-# ESP - 32 
-![ESP - 32](ESP-32.png)
+# ESP32 
+![ESP32](ESP-32.png)
